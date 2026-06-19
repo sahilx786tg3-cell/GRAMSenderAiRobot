@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+tonsdk
+tvm_valuetypes
+requests
